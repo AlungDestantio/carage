@@ -1,6 +1,3 @@
-{{-- =========================================================
-    resources/views/articles/show.blade.php
-   ========================================================= --}}
 @extends('layouts.app')
 @section('title', $article->title)
 
